@@ -1,7 +1,7 @@
 {
     "Author": "Yoav.Eliyahu",
     "ContentSize": 815,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/reboot-cloud-service-(paas)-specific-role-in-parallel/master/RebootSpecificRole.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/reboot-cloud-service--paas--specific-role-in-parallel/master/RebootSpecificRole.ps1",
     "DownloadCount": 1033,
     "Id": "Reboot-Cloud-Service-PaaS-0984e686",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "Reboots cloud service specific role . It uses powershell job to reboot all instances under a role in parallel. This scenarios is good when need to reboot the service role instances at once.Requirements:Create the following connection Assets:Add-AzureAccountSelect-AzureSu",
     "Title": "Reboot Cloud Service (PaaS) Specific Role in Parallel",
     "UpdatedDate": "2016-10-14T00:00:00",
-    "Url": "https://github.com/azureautomation/reboot-cloud-service-(paas)-specific-role-in-parallel",
+    "Url": "https://github.com/azureautomation/reboot-cloud-service--paas--specific-role-in-parallel",
     "UserTags": "Powershell, Azure Cloud Service"
 }
